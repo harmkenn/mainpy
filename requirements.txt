@@ -5,3 +5,4 @@ numpy
 yahooquery
 plotly
 prophet
+yfinance
