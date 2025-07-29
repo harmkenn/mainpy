@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+streamlit
+pandas
+numpy
+yahooquery
+plotly
+prophet
